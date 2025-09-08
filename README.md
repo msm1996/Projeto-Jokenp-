@@ -2,9 +2,7 @@
 <h2>O projeto permite que o usuário jogue contra o computador, escolhendo entre Pedra, Papel ou Tesoura. O computador faz uma escolha aleatória e o resultado do jogo é exibido na tela (vitória, derrota ou empate).</h2>
 <br>
 <h2>Este projeto demonstra habilidades de:</h2>
-<h2>- Manipulação de **estado** com 'useState'
-  <br>
-- Controle de efeitos e re-renderizações com 'useEffect'
+<h2>- Usando 'IF' e 'ELSE' na hora das escolhas ambas as partes
   <br>
 - Interação com o usuário através de botões e eventos</h2>
 <br>
