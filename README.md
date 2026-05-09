@@ -56,5 +56,3 @@ O sistema realiza escolhas aleatórias para o computador e exibe o resultado da 
 
 <h2>📸 Imagem do projeto:</h2> 
 <img src="https://github.com/msm1996/Projeto-Jokenp-/blob/main/Captura%20de%20tela%202025-09-07%20230851.png?raw=true"/>
-
- <a>✍ Feito por [Myke Santana Martins:](https://www.linkedin.com/in/myke-santana-martins)<a/>
